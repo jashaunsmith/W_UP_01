@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
-author: "your name here"
-date: "fall 2020"
+author: "Jashaun Smith"
+date: "Spring 2024"
 output: html_document
 ---
 
@@ -54,3 +54,4 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+I concluded that I reject that $H_O$ the skill players do more pushups then that line players that difference between them exist
